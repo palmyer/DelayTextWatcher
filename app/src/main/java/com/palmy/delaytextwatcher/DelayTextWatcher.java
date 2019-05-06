@@ -12,7 +12,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
 
 /**
- * 输入间隔小于一定时间(500ms)则不知执行回调的TextWatcher
+ * 输入间隔小于一定时间(500ms)则不执行回调的TextWatcher
  *
  * @author palmy
  * @date 2018/6/1
