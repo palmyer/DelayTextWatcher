@@ -1,6 +1,6 @@
 # SearchTextWatcher
 ​
-![image](https://raw.githubusercontent.com/palmyer/LoadingImageView/master/images/device-2018-06-06-153223.png)
+![image](https://github.com/palmyer/DelayTextWatcher/blob/master/20190506_113426.gif)
 
 - 延迟回调TextWatcher
 
