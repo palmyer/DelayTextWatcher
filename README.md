@@ -1,8 +1,9 @@
-DelayTextWatcher
-​
+#DelayTextWatcher
+
+
 ![image](https://github.com/palmyer/DelayTextWatcher/blob/master/20190506_113426.gif)
 
-- 延迟回调TextWatcher
+- 快速输入时阻断回调，延时(500ms)后再回调
 
 - 用法
 
