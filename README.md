@@ -1,4 +1,4 @@
-# SearchTextWatcher
+DelayTextWatcher
 ​
 ![image](https://github.com/palmyer/DelayTextWatcher/blob/master/20190506_113426.gif)
 
