@@ -10,10 +10,10 @@
 - 用法
 
 ```aidl
-mEditText.addTextChangedListener(new SearchTextWatcher(new SearchTextWatcher.SearchCallback() {
-    @Override
-    public void getKeywords(String keywords) {
-        mTextView.setText(keywords);
-    }
-}));
+        mEditText.addTextChangedListener(new DelayTextWatcher(new DelayTextWatcher.SearchCallback() {
+            @Override
+            public void getKeywords(String keywords) {
+                mTextView.setText(keywords);
+            }
+        }));
 ```
